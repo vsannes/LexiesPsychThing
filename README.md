@@ -1,5 +1,4 @@
 # LexiesPsychThing
-Lexie's thing for psych
 <!DOCTYPE html>
 <html>
 
